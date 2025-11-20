@@ -16,7 +16,7 @@ public class CarWashApp extends javax.swing.JFrame {
      */
     public CarWashApp() {
         initComponents();
- this.getContentPane().setBackground(Color.decode("#B0E0E6"));        
+ getContentPane().setBackground(Color.decode("#B0E0E6"));        
     }
 
     /**
