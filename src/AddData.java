@@ -18,7 +18,7 @@ public class AddData extends javax.swing.JFrame {
      */
     public AddData() {
         initComponents();   
- this.getContentPane().setBackground(Color.decode("#B0E0E6"));       
+ getContentPane().setBackground(Color.decode("#B0E0E6"));       
     }
 
     /**
