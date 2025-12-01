@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Nov 29 04:02:42 AST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-019a-cd22-33ef-000006eb3928 
+on database directory C:\Users\Alwsapi_Mohammed\Desktop\CarWash-master\CarWash-master\CarWashDB with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
+Loaded from file:/O:/%d8%a8%d8%b1%d9%87%d8%a7%d8%a7%d8%a7%d8%a7%d8%a7%d8%a7%d8%a7%d9%86/18-11-2025/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=C:\Users\Alwsapi_Mohammed\Desktop\CarWash-master\CarWash-master
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
